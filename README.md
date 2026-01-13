@@ -1,5 +1,4 @@
 # Todo App with LocalStorage
-DEMO[]
 A simple Todo application built using HTML, CSS, and JavaScript that stores tasks in the browser using localStorage.
 
 ## Features
